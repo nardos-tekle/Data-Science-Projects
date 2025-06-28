@@ -3,14 +3,14 @@ This repository contains data cleaning, visualization, and analysis projects usi
 
 
 ## Assignments
-- [Shiny Assignment](#ShinyAssignment)
-- [Multivariate and Univariate Data Analysis](#MultivariateandUnivariateDataAnalysis)
+- [Shiny Assignment](#Shiny-Assignment)
+- [Multivariate and Univariate Data Analysis](#Multivariate-and-Univariate-Data-Analysis)
 - [LoanPTest](#LoanPTest)
-- [Machine Learning Assignment](#MachineLearningAssignment)
-- [Comparing Data Visualization](#ComparingDataVisualization)
-- [Real Estate Dataset Exploration](#RealEstateDatasetExploration)
+- [Machine Learning Assignment](#Machine-Learning-Assignment)
+- [Comparing Data Visualization](#Comparing-Data-Visualization)
+- [Real Estate Dataset Exploration](#Real-Estate-Dataset-Exploration)
 
---
+-----
   
 ### Shiny Assignment:
 
@@ -66,10 +66,11 @@ Histogram for life expectancy distribution in Asian and African countries
 
 Scatterplot comparing life expectancy across continents (note: title had a technical error, but data corresponds to 1952)
 
---
+
 ### Real Estate Dataset Exploration:
 Worked with realestate.csv in Jupyter Notebook applying filtering and cleaning methods such as .fillna(), .duplicated(), .drop_duplicates(), .mean(), etc.
 
 
+-----
 
 These assignments were completed as part of The Tech Academy coursework. Much of the work still requires review and cleaning for clearer, more accurate results, which I plan to continue refining. I’m eager to learn and improve, so any advice from fellow analysts is greatly appreciated!
