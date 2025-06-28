@@ -3,15 +3,17 @@ This repository contains data cleaning, visualization, and analysis projects usi
 
 
 ## Assignments
-- [Shiny Assignment](#Shiny Assignment)
-- [Multivariate and Univariate Data Analysis](#Multivariate and Univariate Data Analysis)
+- [Shiny Assignment](#ShinyAssignment)
+- [Multivariate and Univariate Data Analysis](#MultivariateandUnivariateDataAnalysis)
 - [LoanPTest](#LoanPTest)
-- [Machine Learning Assignment](#Machine Learning Assignment)
-- [Comparing Data Visualization](#Comparing Data Visualization)
-- [Real Estate Dataset Exploration](#Real Estate Dataset Exploration)
+- [Machine Learning Assignment](#MachineLearningAssignment)
+- [Comparing Data Visualization](#ComparingDataVisualization)
+- [Real Estate Dataset Exploration](#RealEstateDatasetExploration)
 
+--
   
-#### Shiny Assignment:
+### Shiny Assignment:
+
 Developed a web application using the WHO TB dataset spanning late 1990s to early 2010s. The app features multiple interactive visualizations:
 
 Histogram showing estimated TB prevalence (all forms) per 100,000 population
@@ -20,6 +22,7 @@ Density plot illustrating TB prevalence burden by region to highlight heavily af
 
 Barplot tracking TB prevalence distribution over time
 This project has more to explore, and I look forward to deeper analysis and cleaning.
+
 
 ### Multivariate and Univariate Data Analysis:
 Conducted in Jupyter Notebook using built-in datasets. Created five visualizations:
@@ -33,6 +36,7 @@ Catplot showing diamond cut vs price with depth and color as additional dimensio
 Distplot and KDE plot for univariate analysis of dataset distributions (to be improved with more specific metrics like depth or cut)
 This was an early project in R; I plan to refine these visualizations and analysis.
 
+
 ### LoanPTest:
 Analyzed a loan dataset in Jupyter Notebook, focusing on applicant incomes, loan amounts, terms, and credit history.
 
@@ -44,6 +48,7 @@ Split data to build confusion matrices and calculate accuracy for loan approval 
 
 Practiced dataset concatenation to enhance data manipulation skills
 
+
 ### Machine Learning Assignment:
 Used RStudio with a housing dataset to perform basic analysis:
 
@@ -53,6 +58,7 @@ Scatterplot comparing total rooms to total bedrooms
 
 Barplot of population vs number of households
 
+
 ### Comparing Data Visualization: 
 Analyzed countries.csv dataset in Jupyter Notebook filtering for Asia and Africa in 1952:
 
@@ -60,8 +66,10 @@ Histogram for life expectancy distribution in Asian and African countries
 
 Scatterplot comparing life expectancy across continents (note: title had a technical error, but data corresponds to 1952)
 
+--
 ### Real Estate Dataset Exploration:
 Worked with realestate.csv in Jupyter Notebook applying filtering and cleaning methods such as .fillna(), .duplicated(), .drop_duplicates(), .mean(), etc.
+
 
 
 These assignments were completed as part of The Tech Academy coursework. Much of the work still requires review and cleaning for clearer, more accurate results, which I plan to continue refining. I’m eager to learn and improve, so any advice from fellow analysts is greatly appreciated!
