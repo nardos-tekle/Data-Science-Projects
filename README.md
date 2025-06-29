@@ -1,5 +1,5 @@
 # Data Science Projects
-This repository contains data cleaning, visualization, and analysis projects using datasets such as Google Play Store, TB burden, machinery goods, insurance, and more. Most work was done using Jupyter Notebook and R, applying various statistical methods like chi-square tests, linear regression, and categorical data analysis to test hypotheses.
+This repository contains data cleaning, visualization, and analysis projects using datasets such as, TB burden, machinery goods, insurance, and more. Most work was done using Jupyter Notebook and R, applying various statistical methods like chi-square tests, linear regression, and categorical data analysis to test hypotheses.
 
 
 ## Assignments
